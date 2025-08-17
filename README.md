@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides tools for interacting with Slack workspaces through the Slack Web API.
 
+<a href="https://glama.ai/mcp/servers/@piekstra/slack-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@piekstra/slack-mcp-server/badge" alt="Slack Server MCP server" />
+</a>
+
 ## Features
 
 ### Channel Management
