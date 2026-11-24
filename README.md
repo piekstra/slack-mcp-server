@@ -397,7 +397,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT License - see LICENSE file for details
+Copyright (C) 2026 Slack MCP Server Contributors. Licensed under the GNU Affero
+General Public License, version 3 only (AGPL-3.0-only); see [LICENSE](LICENSE).
 
 ## Support
 
